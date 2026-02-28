@@ -1,0 +1,21 @@
+.DS_Store
+
+# Node / tooling
+node_modules/
+.pnpm-store/
+.yarn/
+
+# Build output
+dist/
+build/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
